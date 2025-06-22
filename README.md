@@ -35,20 +35,24 @@ YODAVI is a cutting-edge object detection platform that combines the power of YO
 ## 📊 Screenshots
 
 ### Dashboard Overview
-![Dashboard](docs/images/dashboard.png)
+![Dashboard](docs/images/dashboard-normal.png)
 *Professional dashboard with real-time detection feed and analytics*
 
-### Live Detection Interface
-![Live Detection](docs/images/live-detection.png)
+### Live Detection Demo
+![Live Detection](docs/images/live-detection.gif)
 *Real-time object detection with bounding boxes and confidence scores*
 
-### Analytics Dashboard
-![Analytics](docs/images/analytics.png)
-*Comprehensive analytics with object distribution charts*
+### Car Detection Results
+![Car Detection](docs/images/detection-cars.png)
+*Vehicle detection with high accuracy and confidence scores*
 
-### Mobile Interface
-![Mobile View](docs/images/mobile-view.png)
-*Responsive design optimized for mobile devices*
+### Night Vision Detection
+![Night Vision](docs/images/night-vision-detection.png)
+*Advanced night vision object detection capabilities*
+
+### Thermal Detection
+![Thermal Detection](docs/images/thermal-detection.png)
+*Thermal imaging object detection for specialized applications*
 
 ---
 
@@ -155,21 +159,21 @@ http://localhost:3000
 ## 🚀 Quick Start
 
 ### 1. Start Live Detection
-![Start Detection](docs/images/start-detection.gif)
+![Live Detection Demo](docs/images/live-detection.gif)
 
 1. Click **"Start Detection"** in the sidebar
 2. Allow camera permissions when prompted
 3. Watch real-time object detection in action
 
 ### 2. Upload Images
-![Upload Image](docs/images/upload-demo.gif)
+![Upload Demo](docs/images/upload-demo.gif)
 
 1. Drag and drop an image onto the upload area
 2. Or click to browse and select files
 3. View detection results instantly
 
-### 3. Capture Frames
-![Capture Frame](docs/images/capture-demo.gif)
+### 3. View Detection Results
+![Detection Results](docs/images/detection-cars.png)
 
 1. During live detection, click **"Capture"**
 2. Frame is automatically downloaded with detections
