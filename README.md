@@ -11,6 +11,18 @@
 
 **YODAVI - Smart Object Detection and Analysis for Vision Intelligence using YOLOv11**
 
+<div align="center">
+
+![Smart India Hackathon 2024](https://img.shields.io/badge/🏆_Smart_India_Hackathon_2024-FINALIST-gold?style=for-the-badge)
+![ITBP](https://img.shields.io/badge/Problem_Statement_by-ITBP-blue?style=for-the-badge&logo=shield)
+![Location](https://img.shields.io/badge/Conducted_in-Lucknow-green?style=for-the-badge&logo=map-pin)
+
+**🏆 Recognized as FINALIST in Smart India Hackathon 2024**  
+*Problem Statement provided by Indo-Tibetan Border Police (ITBP)*  
+*Conducted in Lucknow, Uttar Pradesh*
+
+</div>
+
 [🚀 Quick Start](#quick-start) • [📖 Documentation](#documentation) • [🎯 Features](#features) • [🛠️ Installation](#installation) • [📊 Screenshots](#screenshots)
 
 </div>
@@ -19,7 +31,9 @@
 
 ## 🎯 Overview
 
-YODAVI is a cutting-edge object detection platform that combines the power of YOLOv11 with a sleek, professional web interface. Originally designed for MIT computer vision coursework, it has evolved into a comprehensive solution for real-time object detection and analysis.
+YODAVI is a cutting-edge object detection platform that combines the power of YOLOv11 with a sleek, professional web interface. **Recognized as a FINALIST in Smart India Hackathon 2024**, this project was developed to address critical security and surveillance challenges presented by the **Indo-Tibetan Border Police (ITBP)**. 
+
+Originally designed for advanced computer vision applications, YODAVI has evolved into a comprehensive solution for real-time object detection and analysis, specifically tailored for border security and surveillance operations.
 
 ### 🌟 Key Highlights
 
@@ -384,11 +398,20 @@ copies or substantial portions of the Software.
 
 ## 🙏 Acknowledgments
 
+### 🏆 Smart India Hackathon 2024
+- **Ministry of Education, Government of India** for organizing the prestigious hackathon
+- **Indo-Tibetan Border Police (ITBP)** for providing the challenging problem statement
+- **Lucknow Host Institution** for excellent event management and facilities
+- **Jury Panel** for recognizing our innovation as a finalist solution
+
+### 🛠️ Technical Contributors
 - **Ultralytics** for the amazing YOLOv11 model
 - **OpenCV** community for computer vision tools
 - **Flask** team for the excellent web framework
-- **MIT** for inspiring the original PhotoBooth concept
 - **Contributors** who help improve this project
+
+### 🎯 Special Recognition
+This project addresses real-world border security challenges and demonstrates the potential of AI in national security applications.
     
 
 ---
