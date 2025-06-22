@@ -38,10 +38,6 @@ YODAVI is a cutting-edge object detection platform that combines the power of YO
 ![Dashboard](docs/images/dashboard-normal.png)
 *Professional dashboard with real-time detection feed and analytics*
 
-### Live Detection Demo
-![Live Detection](docs/images/live-detection.gif)
-*Real-time object detection with bounding boxes and confidence scores*
-
 ### Car Detection Results
 ![Car Detection](docs/images/detection-cars.png)
 *Vehicle detection with high accuracy and confidence scores*
