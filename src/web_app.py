@@ -11,7 +11,7 @@ import os
 import time
 from collections import deque
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='../assets/static', template_folder='../assets/templates')
 app.config['SECRET_KEY'] = 'mit_photobooth_detection_2024'
 socketio = SocketIO(app, cors_allowed_origins="*")
 

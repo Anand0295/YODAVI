@@ -7,7 +7,7 @@ services:
       - "3000:3000"
     volumes:
       - ./uploads:/app/uploads
-      - ./data:/app/data
+      - ./assets:/app/assets
     environment:
       - FLASK_ENV=production
       - PYTHONUNBUFFERED=1

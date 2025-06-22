@@ -24,7 +24,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Create necessary directories
-RUN mkdir -p uploads static/css static/js templates
+RUN mkdir -p uploads assets/static/css assets/static/js assets/templates
 
 # Expose port
 EXPOSE 3000
@@ -34,4 +34,4 @@ HEALTHCHECK --interval=30s --timeout=30s --start-period=5s --retries=3 \
     CMD curl -f http://localhost:3000/ || exit 1
 
 # Run application
-CMD ["python", "web_app.py"]
+CMD ["python", "run.py"]

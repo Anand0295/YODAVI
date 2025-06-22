@@ -1,4 +1,4 @@
-# AI Vision Pro - Professional Object Detection Platform
+# AI Vision Pro
 
 <div align="center">
 
@@ -389,21 +389,7 @@ copies or substantial portions of the Software.
 - **Flask** team for the excellent web framework
 - **MIT** for inspiring the original PhotoBooth concept
 - **Contributors** who help improve this project
-
----
-
-## 📞 Support
-
-### Getting Help
-- 📖 **Documentation**: Check this README and inline code comments
-- 🐛 **Issues**: Report bugs on [GitHub Issues](https://github.com/your-username/ai-vision-pro/issues)
-- 💬 **Discussions**: Join conversations in [GitHub Discussions](https://github.com/your-username/ai-vision-pro/discussions)
-- 📧 **Email**: Contact us at support@aivisionpro.com
-
-### Community
-- 🌟 **Star** this repository if you find it useful
-- 🍴 **Fork** to create your own version
-- 📢 **Share** with others who might benefit
+    
 
 ---
 
@@ -411,6 +397,6 @@ copies or substantial portions of the Software.
 
 **Built with ❤️ for the computer vision community**
 
-[⬆ Back to Top](#ai-vision-pro---professional-object-detection-platform)
+[⬆ Back to Top](#ai-vision-pro)
 
 </div>
