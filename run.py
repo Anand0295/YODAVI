@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AI Vision Pro - Main Application Runner
+YODAVI - Main Application Runner
 """
 
 import sys
@@ -13,7 +13,7 @@ from web_app import app, socketio
 
 def main():
     """Main entry point for the application"""
-    print("AI Vision Pro - Object Detection Platform")
+    print("YODAVI - Smart Object Detection Platform")
     print("=========================================")
     print("🚀 Starting server on http://localhost:3000")
     print("📊 Professional web interface ready")
