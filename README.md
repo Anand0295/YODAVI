@@ -1,15 +1,15 @@
-# AI Vision Pro
+# YODAVI
 
 <div align="center">
 
-![AI Vision Pro Logo](https://img.shields.io/badge/AI%20Vision%20Pro-Object%20Detection-blue?style=for-the-badge&logo=eye)
+![YODAVI Logo](https://img.shields.io/badge/YODAVI-Object%20Detection-blue?style=for-the-badge&logo=eye)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=flat-square&logo=python)](https://python.org)
 [![YOLOv11](https://img.shields.io/badge/YOLOv11-Ultralytics-green.svg?style=flat-square)](https://ultralytics.com)
 [![Flask](https://img.shields.io/badge/Flask-Web_Framework-red.svg?style=flat-square&logo=flask)](https://flask.palletsprojects.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-**Real-time object detection with professional web interface powered by YOLOv11**
+**YODAVI - Smart Object Detection and Analysis for Vision Intelligence using YOLOv11**
 
 [🚀 Quick Start](#quick-start) • [📖 Documentation](#documentation) • [🎯 Features](#features) • [🛠️ Installation](#installation) • [📊 Screenshots](#screenshots)
 
@@ -19,7 +19,7 @@
 
 ## 🎯 Overview
 
-AI Vision Pro is a cutting-edge object detection platform that combines the power of YOLOv11 with a sleek, professional web interface. Originally designed for MIT computer vision coursework, it has evolved into a comprehensive solution for real-time object detection and analysis.
+YODAVI is a cutting-edge object detection platform that combines the power of YOLOv11 with a sleek, professional web interface. Originally designed for MIT computer vision coursework, it has evolved into a comprehensive solution for real-time object detection and analysis.
 
 ### 🌟 Key Highlights
 
@@ -95,8 +95,8 @@ Before installing AI Vision Pro, ensure you have:
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/your-username/ai-vision-pro.git
-cd ai-vision-pro
+git clone https://github.com/Anand0295/YODAVI.git
+cd YODAVI
 ```
 
 ### Step 2: Create Virtual Environment (Recommended)
@@ -137,7 +137,7 @@ python web_app.py
 
 You should see:
 ```
-AI Vision Pro - Object Detection Platform
+YODAVI - Object Detection Platform
 =========================================
 🚀 Starting server on http://localhost:3000
 📊 Professional web interface ready
@@ -395,7 +395,7 @@ copies or substantial portions of the Software.
 
 <div align="center">
 
-**Built with ❤️ for the computer vision community**
+**YODAVI - Built with ❤️ for smart vision intelligence**
 
 [⬆ Back to Top](#ai-vision-pro)
 
